@@ -1,6 +1,6 @@
 # ESPN-NBA-Scoreboard-WebScraper
 
-the R code in this repo is a webscraper that for a given date, outputs an exel file with the information on ESPNs publicaly available NBA Scoreboard, provided atleast one game was played on that date. 
+The R code in this repo is a webscraper that for a given date, outputs an exel file with the information on ESPNs publicaly available NBA Scoreboard, provided atleast one game was played on that date. 
 
 The exel file contains the following columns:
 team names, team locations, home/away, team scores, winner or loser indicator, top performing player, the top performing playes rebound points, and his assist points.
