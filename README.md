@@ -13,7 +13,10 @@ Provided atleast one game was played on the date set in the date variable, the c
 
 IF no games were played on a given date then the code outputs "no games played on this date" in the R console, and does not create any exel file/sheet.
 
-The ESPN website from which the data is scraped looks as follows:
+The ESPN website from which the data is scraped is as follows, (the url is http://espn.go.com/nba/scoreboard)
 ![alt tag](https://github.com/rooster06/ESPN-NBA-Scoreboard-WebScraper/blob/master/1.png)
+
+The exel file generated from the webscraper in this repo is as follows:
+![alt tag](https://github.com/rooster06/ESPN-NBA-Scoreboard-WebScraper/blob/master/2.png)
 
 -P.R.
