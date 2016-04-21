@@ -1,4 +1,4 @@
-# ESPN-NBA-Scoreboard-WebScraper
+# ESPN-NBA-Scoreboard-WebScraper in R
 
 The R code in this repo is a webscraper that for a given date, outputs an exel file with the information on ESPNs publicaly available NBA Scoreboard, provided atleast one game was played on that date. 
 
